@@ -2306,11 +2306,11 @@ input, select, textarea {
 		}
 
 		.icon.style1:before {
-			color: #84f315;
+			color: #b4f86f;
 		}
 
 		.icon.style2:before {
-			color: #56ef0f;
+			color: #43f8d7;
 		}
 
 		.icon.style3:before {
@@ -2318,15 +2318,15 @@ input, select, textarea {
 		}
 
 		.icon.style4:before {
-			color: #e7dc0a;
+			color: #46dd32;
 		}
 
 		.icon.style5:before {
-			color: #db7211;
+			color: #3fcbb9;
 		}
 
 		.icon.style6:before {
-			color: #e30c0c;
+			color: #0435e9;
 		}
 
 		.icon.major {
