@@ -2964,7 +2964,7 @@ input, select, textarea {
 			#header input[type="button"]:hover,
 			#header button:hover,
 			#header .button:hover {
-				background-color: rgba(255, 255, 255, 0.125);
+				background-color: rgba(0, 0, 0, 0.125);
 			}
 
 			#header input[type="submit"]:active,
@@ -2972,7 +2972,7 @@ input, select, textarea {
 			#header input[type="button"]:active,
 			#header button:active,
 			#header .button:active {
-				background-color: rgba(255, 255, 255, 0.25);
+				background-color: rgba(0, 0, 0, 0.25);
 			}
 
 			#header input[type="submit"].primary,
@@ -2990,7 +2990,7 @@ input, select, textarea {
 				#header input[type="button"].primary:hover,
 				#header button.primary:hover,
 				#header .button.primary:hover {
-					background-color: rgba(255, 255, 255, 0.125) !important;
+					background-color: rgba(0, 0, 0, 0.125) !important;
 					color: #ffffff !important;
 				}
 
@@ -2999,7 +2999,7 @@ input, select, textarea {
 				#header input[type="button"].primary:active,
 				#header button.primary:active,
 				#header .button.primary:active {
-					background-color: rgba(255, 255, 255, 0.25) !important;
+					background-color: rgba(0, 0, 0, 0.25) !important;
 				}
 
 		#header ul.major-icons li .icon {
@@ -3118,7 +3118,7 @@ input, select, textarea {
 		background-color: #4686a0;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
-		background-image: url("images/overlay2.png"), url("images/overlay4.svg"), linear-gradient(45deg, #4361c2, #4fa49a 50%, #9dc66b 95%);
+		background-image: url("images/overlay2.png"), url("images/overlay4.svg"), linear-gradient(45deg, #270b04, #8b2d04 50%, #cda324 95%);
 		background-position: top left,						center center,					center center;
 		background-size: auto,							cover,							cover;
 		text-align: center;
